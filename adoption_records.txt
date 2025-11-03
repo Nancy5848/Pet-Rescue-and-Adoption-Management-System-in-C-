@@ -1,0 +1,20 @@
+=============================================
+     🏡 PET ADOPTION RECORDS 🏡
+=============================================
+
+Adopter Name  :  shero
+Contact No.   :  89786568778
+Pet ID        : 1
+Pet Name      :  Shero
+Species       :  dog
+Age           : 2
+Health Status :  healthy
+----------------------------------------------
+Adopter Name  : pooja
+Contact No.   : 897344598794
+Pet ID        : 3
+Pet Name      : bherv
+Species       : dog
+Age           : 3
+Health Status : healthy
+----------------------------------------------
